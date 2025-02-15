@@ -1,0 +1,4 @@
+declare module '#content/server' {
+  const serverQueryContent: typeof import('/Users/michaelwybraniec/Documents/GitHub/chasquis/node_modules/.pnpm/@nuxt+content@2.13.4_db0@0.2.3_ioredis@5.4.2_magicast@0.3.5_nuxt@3.15.4_@parcel+watcher@2.5.1_fzu75y2dfsrcd6p6ifmjedcovq/node_modules/@nuxt/content/dist/runtime/legacy/types').serverQueryContent
+  const parseContent: typeof import('/Users/michaelwybraniec/Documents/GitHub/chasquis/node_modules/.pnpm/@nuxt+content@2.13.4_db0@0.2.3_ioredis@5.4.2_magicast@0.3.5_nuxt@3.15.4_@parcel+watcher@2.5.1_fzu75y2dfsrcd6p6ifmjedcovq/node_modules/@nuxt/content/dist/runtime/server').parseContent
+}
